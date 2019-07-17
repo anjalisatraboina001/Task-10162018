@@ -1,6 +1,6 @@
-package com.mkyong;
+package com.anjali;
 
-import com.mkyong.repository.BookRepository;
+import com.anjali.repository.BookRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
