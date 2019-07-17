@@ -1,6 +1,6 @@
-package com.mkyong.repository;
+package com.anjali.repository;
 
-import com.mkyong.Book;
+import com.anjali.Book;
 
 import java.math.BigDecimal;
 import java.util.List;
