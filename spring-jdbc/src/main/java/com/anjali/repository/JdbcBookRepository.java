@@ -1,6 +1,6 @@
-package com.mkyong.repository;
+package com.anjali.repository;
 
-import com.mkyong.Book;
+import com.anjali.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
