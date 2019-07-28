@@ -46,7 +46,6 @@ public class StartApplication implements CommandLineRunner {
 
         List<Book> books = Arrays.asList(
                 new Book("Thinking in Java", new BigDecimal("46.32")),
-                new Book("Mkyong in Java", new BigDecimal("1.99")),
                 new Book("Getting Clojure", new BigDecimal("37.3")),
                 new Book("Head First Android Development", new BigDecimal("41.19"))
         );
